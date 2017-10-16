@@ -3,18 +3,18 @@
 >一个仿[异乡好居](https://m.uhouzz.com/apartments)的vue入门项目
 
 
-## 技术栈：
+### 技术栈：
 vue2+vuex+vue-router+es6/es7+webpack+scss+flex+nodejs+express+mysql
 
 
-## 项目结构：
+### 项目结构：
 ``` bash
 # src是前端源代码编辑区
 # server是服务端源代码编辑区
 ```
 
 
-## 安装启动步骤：
+### 安装启动步骤：
 ``` bash
 # 将项目clone到本地，安装和启动分为服务端和前端两块
 #服务端安装：
@@ -30,7 +30,7 @@ vue2+vuex+vue-router+es6/es7+webpack+scss+flex+nodejs+express+mysql
 ```
 
 
-## 项目说明：
+### 项目说明：
 ``` bash
   这是我的第一个vue项目，公司一直是处在jquery时代，为了不被时代淘汰自己空余时间学习vue。
   此项目是我边查文档边写的，写到哪查到哪，所以很多地方写得不够好，如父子组件传递状态时，开始没用vuex，让代码显得很混乱。但踩坑才能理解得更好，毕竟是入门。
@@ -45,11 +45,10 @@ vue2+vuex+vue-router+es6/es7+webpack+scss+flex+nodejs+express+mysql
 ```
 
 
-## 项目截图：
-  <img src='src/static/imgs/md_1.gif' width='48%'>
-  <img src='src/static/imgs/md_2.gif' width='48%'>
+### 项目截图：
+  <img src='src/static/imgs/md_1.gif' width='48%'> <img src='src/static/imgs/md_2.gif' width='48%'>
 
-## 项目用于学习交流, 转载请注明出处
+### 项目用于学习交流, 转载请注明出处
 
 
 
