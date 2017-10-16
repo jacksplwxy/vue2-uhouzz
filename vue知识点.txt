@@ -1,0 +1,3 @@
+﻿·创建步奏参考：http://blog.csdn.net/p493794782/article/details/73558817
+·webpack 打包时支持 CommonJS、AMD 和 ES6 的模块化系统。
+·懒加载的原理
