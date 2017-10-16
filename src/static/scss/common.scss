@@ -1,0 +1,35 @@
+@charset "utf-8";
+/*通用*/
+$fs:14px;
+$cl:#FF5A5F;
+body {
+  font: $fs "microsoft yahei", Arial, Helvetica, sans-serif;
+  margin:0px;
+  padding:0px;
+}
+ul,li,p,h1,h2,h3,h4,h5,h6,dl,dt,dd {
+  margin:0px;
+  padding:0px;
+  border:none;
+  list-style:none;
+}
+a{color: inherit}
+input {border:none;}
+.lf   {float:left;}
+.rt  {float:right;}
+.clear  {clear:both;}
+.ltor{  //横排从左到右
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+.lcr{  //两边排
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.lar{ // 均匀排
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}

@@ -1,0 +1,12 @@
+·webpack 打包时支持 CommonJS、AMD 和 ES6 的模块化系统。
+
+·为什么循环图片时要写成：
+<li v-for="(caseList,index) in caseLists">
+    <img :src='caseList.pic'/>
+</li>
+而不能是：
+<li v-for="(caseList,index) in caseLists">
+    <img src='{{caseList.pic}}'/>
+</li>
+
+·懒加载的原理

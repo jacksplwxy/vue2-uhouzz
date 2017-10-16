@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/*通用*/
+body {
+  font: 14px "microsoft yahei", Arial, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px; }
+
+ul, li, p, h1, h2, h3, h4, h5, h6, dl, dt, dd {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  list-style: none; }
+
+a {
+  color: inherit; }
+
+input {
+  border: none; }
+
+.lf {
+  float: left; }
+
+.rt {
+  float: right; }
+
+.clear {
+  clear: both; }
+
+.ltor {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start; }
+
+.lcr {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between; }
+
+.lar {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around; }
+
+/*# sourceMappingURL=common.css.map */
